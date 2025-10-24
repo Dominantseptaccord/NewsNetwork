@@ -5,4 +5,5 @@
 <img width="384" height="824" alt="изображение" src="https://github.com/user-attachments/assets/a4c352e7-2fc2-4400-959f-f1cfc74563bd" />
 <br>
 <img width="382" height="814" alt="изображение" src="https://github.com/user-attachments/assets/268affdc-ebc8-41ff-9745-f7fb688b7d79" />
+<br>
 
